@@ -1,8 +1,8 @@
 def linear_search(arr, target):
     for index, value in enumerate(arr):
         if value == target:
-            return index  # Found the target, return its index
-    return -1  # Target not found
+            return index 
+    return -1 
 
 # Example usage
 numbers = [10, 23, 45, 70, 11, 15]
