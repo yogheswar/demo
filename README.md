@@ -1,1 +1,1 @@
-I cant understand why i get error 
+I solved the logic 
