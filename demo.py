@@ -11,6 +11,6 @@ search_value = 70
 result = linear_search(numbers, search_value)
 
 if result != -1:
-    print(f"Value {search_value} found at index {result}.")
+    print(f"Value {search_value} not found at index {result}.")
 else:
-    print(f"Value {search_value} not found in the list.")
+    print(f"Value {search_value} found in the list.")
